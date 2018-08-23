@@ -1,3 +1,7 @@
+body:hover {
+  cursor: default;
+}
+
 .container {
   padding: 10px;
 }
@@ -16,4 +20,8 @@
   border: 2px solid grey;
   background-color: white;
   font-size: 25px;
+}
+
+.col-md-4:hover {
+  cursor: pointer;
 }
